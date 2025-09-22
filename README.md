@@ -25,7 +25,3 @@ Tenho interesse em ciência e engenharia de dados, desenvolvimento de software e
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"/></code>
 
 ---
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alencaravelar&show_icons=true)
