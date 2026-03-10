@@ -1,5 +1,4 @@
-##  Olá, meu nome é Alencar!
-
+## Olá, meu nome é Alencar!
 
 Sou Alencar Henrique, formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Ciência da Computação na UFLA (Universidade Federal de Lavras).
 
@@ -7,8 +6,9 @@ Tenho interesse em ciência e engenharia de dados, desenvolvimento de software e
 
 🚀 Sempre em busca de aprendizado contínuo e novos desafios na área de tecnologia.
 
----
+📫 **Conecte-se comigo:** [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/feed?nis=true&skipRedirect=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BTnbkD4nJQqq%2FhCpFpIlG2A%3D%3D)
 
+---
 
 ## 🚀 Minhas Skills
 
